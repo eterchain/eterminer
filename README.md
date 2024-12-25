@@ -1,0 +1,2 @@
+# eterminer
+Eterchain mining
