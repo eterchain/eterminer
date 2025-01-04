@@ -40,7 +40,7 @@ curl -L -O https://github.com/eterchain/eterminer/releases/download/v1.0.1/eterc
 tar -xvzf eterchainV1.0.0.tar.gz
 ```
 ```console
-cd eterminer
+cd eterchain
 ```
 
 ## 3. Run Eterchain Miner
