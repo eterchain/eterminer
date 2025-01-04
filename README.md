@@ -34,10 +34,10 @@ docker --version
 ## 2. Install Eterchain Miner
 ```console
 cd ~
-curl -L -O https://github.com/eterchain/eterminer/releases/download/v1.0.1/eterchainV1.0.0.tar.gz
+curl -L -O https://github.com/eterchain/eterminer/releases/download/v1.0.2/eterchainV1.0.2.tar.gz
 ```
 ```console
-tar -xvzf eterchainV1.0.0.tar.gz
+tar -xvzf eterchainV1.0.2.tar.gz
 ```
 ```console
 cd eterchain
@@ -58,7 +58,7 @@ cd eterchain
 #### 1- Delete Old files
 ```
 cd ~
-rm -rf eterchainV1.0.0.tar.gz
+rm -rf eterchainV1.0.1.tar.gz
 rm -rf eterminer
 ```
 
