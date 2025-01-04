@@ -76,4 +76,4 @@ tmux kill-session eterminer
 ```
 
 ### 3- Update and Rerun miner
-Start from Step [Install Miner](https://github.com/eterchain/eterminer/edit/main/README.md#install-eterchain-miner)
+Start from Step [Install Miner](https://github.com/eterchain/eterminer?tab=readme-ov-file#2-install-eterchain-miner)
