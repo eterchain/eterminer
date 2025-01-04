@@ -1,4 +1,5 @@
 # Eterchain Miner Binary Setup
+Welcome to the Eterchain Miner Setup! This guided process will help you configure your miner with ease, providing step-by-step instructions to ensure a smooth start. Let's get you set up and ready to operate efficiently blockchain networks. you can see all of the version [Release](https://github.com/eterchain/eterminer/releases) Here.
 * Official Guide : https://docs.eterchain.io
 * This guide is for Linux AMD
 
@@ -31,7 +32,6 @@ docker --version
 
 
 ## 2. Install Eterchain Miner
-Welcome to the Eterchain Miner Setup! This guided process will help you configure your miner with ease, providing step-by-step instructions to ensure a smooth start. Let's get you set up and ready to operate efficiently blockchain networks. you can see all of the version [Release](https://github.com/eterchain/eterminer/releases) Here.
 ```console
 cd ~
 curl -L -O https://github.com/eterchain/eterminer/releases/download/v1.0.1/eterchainV1.0.0.tar.gz
